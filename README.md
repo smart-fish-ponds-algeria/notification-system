@@ -14,7 +14,6 @@ This project implements a **Push Notification System** using:
 
 * 🔔 Send push notifications to specific devices
 * 📲 Expo push token registration from mobile client
-* 🛡️ Secure notification sending via REST API
 * ✅ Supports Expo Go and standalone apps
 
 ---
