@@ -23,8 +23,8 @@ This project implements a **Push Notification System** using:
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/your-repo/notification-system.git
-cd notification-system/backend
+git clone https://github.com/smart-fish-ponds-algeria/notification-system.git
+cd notification-system
 npm install
 ```
 
